@@ -1,0 +1,1 @@
+Practiced staging and committing changes using Git.

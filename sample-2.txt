@@ -1,0 +1,1 @@
+Explored git status and git log for tracking history.

@@ -1,1 +1,0 @@
-Initialized a Git repository and established the initial project structure.
